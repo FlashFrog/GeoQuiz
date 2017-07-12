@@ -8,4 +8,8 @@
     <string name="question_africa">The Amzon River is the longest river</string>
     <string name="qusetion_americas">The Amzon River is the longest river</string>
     <string name="question_asia">Lake Baikal is the world\'s oldest and deepest freeshwater lake</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">CHEAT!</string>
+    <string name="judgment_toast">Cheating is wrong</string>
 </resources>
